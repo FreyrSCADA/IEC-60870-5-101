@@ -1,0 +1,25 @@
+We can add up to 50 server node in the simulator. Every server node will work independently. 
+Simulator window shows the status & connection port number. 
+The user can update the monitoring Point information and quality bits. Send all type of commands, parameter activation, file transfer.
+
+Interoperability:
+http://freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Interoperability.pdf
+
+
+Download Evaluation Kit - IEC 60870-5-101 Development Bundle:
+
+New updated Version of IEC 60870-5-101 Simulator & SDK (Software Development Kit) is available now. 
+In the Development Bundle, We included IEC 60870-5-101 Server & Client Simulator, Windows and Linux Software Development Kit.
+
+http://freyrscada.com/iec-60870-5-101.php
+
+you can test the simulator with IEC 101 Client (https://sourceforge.net/projects/iec-101-client-simulator/).
+and use the serial null modem emulator (https://sourceforge.net/projects/com0com/) for connecting IECserver and client simulator via serial cable
+
+Features
+Multiple Server Simulation
+In a Single Server(link) simulate Multiple Stations (Common Address)
+Mapping of Control Point to monitor Information point, consider C_SC point can map to M_SP point
+Balanced & Unbalanced Mode
+Supports "select-before-operate" or "direct-execute" command execution modes
+supports File Transfer, Directory commands
