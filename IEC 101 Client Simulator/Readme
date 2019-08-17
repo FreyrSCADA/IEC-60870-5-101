@@ -1,26 +1,45 @@
-IEC 60870-5-101 Client Simulator
-Simulate iec101 client/Master,supports all type ofASDU,monitor,command
-Brought to you by: freyrscada
+IEC 60870-5-101 Client  Master Simulator
 
-We can add up to 50 Client node in the simulator. Every Client node will work independently. 
-Simulator window shows the Connection status & Serial port number. The user can monitor all data Point information, and quality bits. Send all type of commands, parameter activation, file transfer.
+Complete Simulation of IEC 101 Client as per Protocol Standard including File transfer. Support Balanced and unbalanced modes.
+
+Add up to 50 Client node in the simulator. Every Client node will work independently.
+
+Send all type of commands, parameter activation, file transfer.
 
 Interoperability:
-http://freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Interoperability.pdf
+http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Interoperability.pdf
 
 Download Evaluation Kit - IEC 60870-5-101 Development Bundle:
 
-New updated Version of IEC 60870-5-101 Simulator & SDK (Software Development Kit) is available now. 
 In the Development Bundle, We included IEC 60870-5-101 Server & Client Simulator, Windows and Linux Software Development Kit.
 
-http://freyrscada.com/iec-60870-5-101.php
+http://www.freyrscada.com/iec-60870-5-101.php
 
-you can test the simulator with IEC 101 Server(https://sourceforge.net/projects/iec-101-server-simulator/).
+you can test the simulator with IEC 101 Server Simulator.
 and use the serial null modem emulator (https://sourceforge.net/projects/com0com/) for connecting IEC server and client simulator via serial cable.
 
+Video tutorial: https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u
+
+
 Features
-Multiple Master / Client Simulation
-In a Single Client(link) simulate Multiple Stations (Common Address)
-Supports Balanced & Unbalanced Mode
-Supports "Select-Before-Operate" SBO or "Direct-execute" command execution modes
-supports File Transfer, Directory commands
+
+    *	Multiple Master / Client Simulation
+    *	In a Single Client(link) simulate Multiple Stations (Common Address)
+    *	Supports Balanced & Unbalanced Mode
+    *	Supports "Select-Before-Operate" SBO or "Direct-execute" command execution modes
+    *	supports File Transfer, Directory commands
+    *	Clock synchronization
+    *	License Perpetual One-time payment, royalty-free Neither license manager nor dongle required
+    *	Support all type of Typeid ASDU, APCI, APDU, Command activation and termination commands, support all Cause of transmission (COT), Parameter in control direction.
+    *	http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Simulator-User-Manual.pdf
+	
+	
+http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html
