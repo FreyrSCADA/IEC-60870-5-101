@@ -2,28 +2,6 @@
 IEC 60870-5-101 Protocol - RTU Server Simulator, Master Client Simulator, Windows and Linux (ARM) Software development Kit, 
 Source Code in C, C++, C# .NET Programming - complete protocol implementation including file transfer 
 
-
-
-    Home Browse Science & Engineering SCADA IEC 60870-5-101 ( IEC 101 ) - Protocol 
-
-IEC 60870-5-101 ( IEC 101 ) - Protocol Icon
-IEC 60870-5-101 ( IEC 101 ) - Protocol
-IEC 101 Server and Client Simulator, Source code Library, Win, Linux
-Brought to you by: freyrscada
-1 Review
-Downloads: 6 This Week
-Last Update: 6 hours ago
-Download
-Get Updates
-Share This
-Windows Linux
-
-    Summary
-    Files
-    Reviews
-    Support
-    Wiki
-
 FreyrSCADA offering
 IEC101 RTU Server Simulator IEC101 Client Master Simulator, Static and Dynamic Libraries, Source Code Library.
 
@@ -35,8 +13,9 @@ Driver for Windows, POSIX Linux, ARM , PowerPC, QNX & more
 
 In the Bundle included IEC 101 Server & Client Simulator, Windows and Linux SDK, C# projects, Doxygen , Raspberry Pi, BeagleBone Demo library.
 
-http://www.freyrscada.com/iec-60870-5-101.php
 
+
+http://www.freyrscada.com/iec-60870-5-101.php
 
 http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
 
@@ -50,6 +29,8 @@ contact@freyrscada.com
 
 video tutorial:
 https://www.youtube.com/watch?v=9clfiPrEbls&list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP
+
+
 Features
 
     Written in ANSI-Standard C Source Code, under a strict corporate coding standard, and supports C++, C#
