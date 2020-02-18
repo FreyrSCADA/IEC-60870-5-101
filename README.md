@@ -25,6 +25,8 @@ http://freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php
 
 http://freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
 
+http://freyrscada.com/iec-60870-5-101-Source-Code-Library.html
+
 contact@freyrscada.com
 
 video tutorial:
