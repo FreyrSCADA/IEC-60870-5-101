@@ -15,17 +15,17 @@ In the Bundle included IEC 101 Server & Client Simulator, Windows and Linux SDK,
 
 
 
-http://www.freyrscada.com/iec-60870-5-101.php
+https://www.freyrscada.com/iec-60870-5-101.php
 
-http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
+https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
 
-http://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php
+https://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php
 
-http://freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php
+https://freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php
 
-http://freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
+https://freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
 
-http://freyrscada.com/iec-60870-5-101-Source-Code-Library.html
+https://freyrscada.com/iec-60870-5-101-Source-Code-Library.html
 
 contact@freyrscada.com
 
@@ -52,3 +52,22 @@ Features
     Complete implementation of iec 101 protocol standard including File transfer.
 
 
+facebook -- https://www.facebook.com/IEC101
+
+twitter -- https://twitter.com/FreyrScada      
+
+linkedin -- https://in.linkedin.com/showcase/iec-60870-5-101
+
+youtube -- https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u
+
+vimeo -- https://vimeo.com/freyrscada
+
+pinterest -- https://in.pinterest.com/FreyrSCADA/iec-60870-5-101-protocol/
+
+tumblr -- https://freyrscada.tumblr.com
+
+blog -- https://iec60870-5-101.blogspot.in/
+
+telegram -- https://t.me/s/iec_60870_5_101_protocol
+
+instagram -- https://www.instagram.com/explore/tags/iec101_protocol/
