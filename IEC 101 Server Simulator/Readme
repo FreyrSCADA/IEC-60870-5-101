@@ -19,7 +19,7 @@ https://www.freyrscada.com/iec-60870-5-101.php
 you can test the simulator with IEC 101 Client Simulator.
 and use the serial null modem emulator (https://sourceforge.net/projects/com0com/) for connecting IEC 101 server and client simulator via serial cable.
 
-Video tutorial: https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u*
+Video tutorial: https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u
 
 Features
 
@@ -35,7 +35,7 @@ Features
     * 	License - Perpetual * One-time payment, royalty-free * Neither license manager nor dongle required.
     *	Support all type of Typeid ASDU, APCI, APDU, Command activation, termination.
     *	support all Cause of transmission (COT), Parameter in control direction
-    *	http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Simulator-User-Manual.pdf
+    *	https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Simulator-User-Manual.pdf
 	
 	
 https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
@@ -50,6 +50,17 @@ https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html
 
 	
 	
+<<<<<<< .mine
+||||||| .r62
+http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-101-Client-Simulator.php
+
+http://www.freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html=======
 facebook -- https://www.facebook.com/IEC101
 
 twitter -- https://twitter.com/FreyrScada      
@@ -69,3 +80,4 @@ blog -- https://iec60870-5-101.blogspot.in/
 telegram -- https://t.me/s/iec_60870_5_101_protocol
 
 instagram -- https://www.instagram.com/explore/tags/iec101_protocol/
+>>>>>>> .r66

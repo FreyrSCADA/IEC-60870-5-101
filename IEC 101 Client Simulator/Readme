@@ -31,7 +31,7 @@ Features
     *	Clock synchronization
     *	License Perpetual One-time payment, royalty-free Neither license manager nor dongle required
     *	Support all type of Typeid ASDU, APCI, APDU, Command activation and termination commands, support all Cause of transmission (COT), Parameter in control direction.
-    *	http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Simulator-User-Manual.pdf
+    *	https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Simulator-User-Manual.pdf
 	
 	
 https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php
@@ -42,6 +42,11 @@ https://www.freyrscada.com/iec-60870-5-101-Windows-Software-Development-Kit(SDK)
 
 https://www.freyrscada.com/iec-60870-5-101-Linux-Software-Development-Kit(SDK).php
 
+<<<<<<< .mine
+https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html
+||||||| .r62
+http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html
+=======
 https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html
 
 
@@ -65,3 +70,4 @@ blog -- https://iec60870-5-101.blogspot.in/
 telegram -- https://t.me/s/iec_60870_5_101_protocol
 
 instagram -- https://www.instagram.com/explore/tags/iec101_protocol/
+>>>>>>> .r66
