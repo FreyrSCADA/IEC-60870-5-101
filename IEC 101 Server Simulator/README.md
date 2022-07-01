@@ -1,4 +1,4 @@
-# [IEC 60870-5-101 Protocol](https://www.freyrscada.com/iec-60870-5-101.php)
+# [IEC 60870-5-101 Protocol](http://www.freyrscada.com/iec-60870-5-101.php)
 
 RTU Server Simulator, Master Client Simulator, Windows and Linux POSIX ARM, IEC101 Source Code in C, C++, C# .NET Programming
 
@@ -16,23 +16,23 @@ The result of this work is IEC 60870-5. Five documents specify the base IEC 6087
 - IEC 60870-5-4 Definition and Coding of Information Elements
 - IEC 60870-5-5 Basic Application Functions
 
-[![IEC 60870-5-101 Protocol](https://www.freyrscada.com/images/101w320x220.jpg)](https://www.freyrscada.com/iec-60870-5-101.php)
+[![IEC 60870-5-101 Protocol](http://www.freyrscada.com/images/101w320x220.jpg)](http://www.freyrscada.com/iec-60870-5-101.php)
 
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with iec 101.
 
 
 
-## [Download Evaluation Kit - IEC 101 Development Bundle](https://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
+## [Download Evaluation Kit - IEC 101 Development Bundle](http://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
 
 In the Development Bundle, We included IEC 101 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
 
 
-# [IEC 60870-5-101 RTU IED Server Simulator](https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
+# [IEC 60870-5-101 RTU IED Server Simulator](http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
 
 
 Complete Simulation of IEC 101 Server as per Protocol Standard including File transfer (Both Monitoring and control direction).
 
-[![IEC 60870-5-101 Protocol RTU IED Server Simulator](https://www.freyrscada.com/images/iec101serversimlogo_thump.jpg)](https://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
+[![IEC 60870-5-101 Protocol RTU IED Server Simulator](http://www.freyrscada.com/images/iec101serversimlogo_thump.jpg)](http://www.freyrscada.com/iec-60870-5-101-Server-Simulator.php)
 
 
 ​Support all type of ASDU Typeid according to protocol specification
@@ -88,10 +88,10 @@ The user can update the monitoring Point information. The following parameters c
  - Spontaneous transmission (e. g. single indications with time tag ...)
 
 
-## [IEC 60870-5-101 Protocol RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Simulator-User-Manual.pdf)
+## [IEC 60870-5-101 Protocol RTU Server Simulator User Manual](http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Simulator-User-Manual.pdf)
 
 
-# [IEC 60870-5-101 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
+# [IEC 60870-5-101 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
 
 
 The most complete implementation of IEC 101 protocol stack including File transfer (Monitor and Control Direction), Directory Commnads, Supports all type of Monitoring, command , parameter ASDUs.
@@ -101,7 +101,7 @@ Low memory footprint, easy start on any hardware platform, can operate with or w
 high configurability allows to use required features only, royalty-free licensing.
 
 
-[![IEC 60870-5-101 Code Windows C C++ C# .net Linux Arm POSIX](https://www.freyrscada.com/images/IEC-60870-5-101-source-code-library-stack.jpg)](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
+[![IEC 60870-5-101 Code Windows C C++ C# .net Linux Arm POSIX](http://www.freyrscada.com/images/IEC-60870-5-101-source-code-library-stack.jpg)](http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
 
 
 ## Salient Features
@@ -313,16 +313,16 @@ ASDU_TYPE_127..255  127..255  Reserved (user area)
 
 ## Knowledge Base - Interoperability
 
-[IEC 60870-5-101 Protocol Server Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Interoperability.pdf)
+[IEC 60870-5-101 Protocol Server Interoperability](http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Server-Interoperability.pdf)
 
-[IEC 60870-5-101 protocol Client Interoperability](https://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Interoperability.pdf)
+[IEC 60870-5-101 protocol Client Interoperability](http://www.freyrscada.com/docs/FreyrSCADA-IEC-60870-5-101-Client-Interoperability.pdf)
 
  
 
 ## Licensing
 
 
-### [Source Code License model:](https://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
+### [Source Code License model:](http://www.freyrscada.com/iec-60870-5-101-Source-Code-Library.html)
 
 In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
@@ -358,23 +358,23 @@ For Unlimited year license, after a year, you will have the option to renew the 
 
 # [IEC 60870-5 part 101 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1bx7TVjtZnqFB6tbZBhOlJP)
 
-## [IEC 60870-5-101 Protocol Product Description Video](https://www.freyrscada.com/iec-60870-5-101-video.html)	
-[![IEC 60870-5-101 Protocol Product Description Video](https://www.freyrscada.com/images/iec101videoicon.jpg)](https://www.freyrscada.com/iec-60870-5-101-video.html)
+## [IEC 60870-5-101 Protocol Product Description Video](http://www.freyrscada.com/iec-60870-5-101-video.html)	
+[![IEC 60870-5-101 Protocol Product Description Video](http://www.freyrscada.com/images/iec101videoicon.jpg)](http://www.freyrscada.com/iec-60870-5-101-video.html)
 
-## [IEC 60870-5-101 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)	
-[![IEC 60870-5-101 Protocol Server Simulator test with third party tool](https://www.freyrscada.com/images/iec101-server-simulator-testing.jpg)](https://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)
+## [IEC 60870-5-101 Protocol Server Simulator test with third party tool](http://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)	
+[![IEC 60870-5-101 Protocol Server Simulator test with third party tool](http://www.freyrscada.com/images/iec101-server-simulator-testing.jpg)](http://www.freyrscada.com/IEC101_Server_Simulator_Testing.html)
 
-## [IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)	
-[![IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](https://www.freyrscada.com/images/iec101-client-simulator-testing.jpg)](https://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)
+## [IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](http://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)	
+[![IEC 60870-5-101 Protocol Client Master Simulator test with third party tool](http://www.freyrscada.com/images/iec101-client-simulator-testing.jpg)](http://www.freyrscada.com/IEC101_Client_Simulator_Testing.html)
 
-## [IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)	
-[![IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](https://www.freyrscada.com/images/iec101-simulator-filetransfer.jpg)](https://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)
+## [IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](http://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)	
+[![IEC 60870-5-101 Protocol Server and Client Simulator - File Transfer, Directory command operation](http://www.freyrscada.com/images/iec101-simulator-filetransfer.jpg)](http://www.freyrscada.com/IEC-60870-5-101-Server-Client-File-Transfer-video.html)
 
-## [IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)	
-[![IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](https://www.freyrscada.com/images/IEC101_Server_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)
+## [IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](http://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)	
+[![IEC 60870-5-101 Protocol Server Simulator with Kepware OPC](http://www.freyrscada.com/images/IEC101_Server_Simulator_Kepware_OPC.jpg)](http://www.freyrscada.com/IEC101_Server_Simulator_Kepware_OPC.html)
 
-## [IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)	
-[![IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](https://www.freyrscada.com/images/IEC101_Server_Beaglebone_Arm_Linux.jpg)](https://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)
+## [IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](http://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)	
+[![IEC 60870-5-101 Protocol Server in Beaglebone Arm Linux](http://www.freyrscada.com/images/IEC101_Server_Beaglebone_Arm_Linux.jpg)](http://www.freyrscada.com/IEC101_Server_Beaglebone_Arm_Linux.html)
 
 ## [IEC 101 RTU IED Server Simulator testing with Matrikon OPC](http://www.freyrscada.com/IEC101_Server_Simulator-Matrikon-OPC.html)	
 [![IEC 101 RTU IED Server Simulator testing with Matrikon OPC](http://www.freyrscada.com/images/iec101-matrikon-opc-with-sub.JPG)](http://www.freyrscada.com/IEC101_Server_Simulator-Matrikon-OPC.html)
@@ -401,6 +401,6 @@ For Unlimited year license, after a year, you will have the option to renew the 
 [instagram](https://www.instagram.com/explore/tags/iec101_protocol/)
 
 
-# [Download Evaluation Kit - IEC 101 Protocol Development Bundle](https://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
+# [Download Evaluation Kit - IEC 101 Protocol Development Bundle](http://www.freyrscada.com/iec-60870-5-101.php#Download-IEC60870-5-101-Development-Bundle)
 
 In the Development Bundle, We included IEC 60870-5 part 101 Protocol Server  Client Simulator, Windows and Linux SDK, C# projects, Doxygen documentation and Raspberry Pi, BeagleBone Demo library.
