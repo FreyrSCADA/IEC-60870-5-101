@@ -1,16 +1,3 @@
-site_name: Basic MkDocs Example Project
-theme:
-  name: readthedocs
-  highlightjs: true
-plugins:
-  - search
-  - mkdocstrings:
-      handlers:
-        # See: https://mkdocstrings.github.io/python/usage/
-        python:
-          options:
-            docstring_style: sphinx
-markdown_extensions:
-  - markdown_include.include:
-      base_path: .
-  - admonition
+site_name: IEC 60870-5-101 Protocol
+nav:
+  - Home: index.md
