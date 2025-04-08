@@ -1,0 +1,85 @@
+site_name: IEC 60870-5-101 Protocol
+site_description: iec 101 protocol simulator, windows linux sdk
+
+site_url: https://teaddoctest.readthedocs.io/
+use_directory_urls: false
+docs_dir: 'mkdoc'
+
+
+nav:
+  - Home: index.md
+  - Simulator:
+      - IEC 101 Server Simulator: iec-101-server-simulator.md
+      - IEC 101 Client Simulator: iec-101-client-simulator.md
+  - Programming:
+      - IEC 101 Windows SDK : iec101-windows-sdk-programming.md
+      - IEC 101 Linux SDK : iec101-linux-sdk-programming.md
+      - IEC 101 Python SDK : iec101-python-programming.md
+      - IEC 101 .Net Core SDK : iec101-netcore-programming.md
+  - Videos:
+      - IEC 60870-5-101 Simulator and Programming tutorial videos: iec101-simulator-programming-tutorial-video.md
+theme:
+  name: material
+  logo: img/iec101.svg
+  favicon: img/iec101.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+
+plugins:
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/playlist?list=PL4tVfIsUhy1bsVPrJVW4nknHozdfcWE5u
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/FreyrScada
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/products/freyrscada-iec-608705101-protocol-server-client-simulator-windows-linux-code-library/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/IEC101            
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/explore/tags/iec101_protocol/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/freyrscada
+    - icon: fontawesome/brands/medium
+      link: https://freyrscada.medium.com/    
+    
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/FreyrSCADA"  target="_blank" rel="noopener">FreyrSCADA</a>
